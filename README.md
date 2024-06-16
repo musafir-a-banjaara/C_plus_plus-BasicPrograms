@@ -7,3 +7,6 @@ This is my first Repo after learning Github
 3. AreaOfCircle.cpp can be used to calculate area of a Circle
 <br>
 4. VolumeOfSphere.cpp is used to calculate the volume of a Sphere
+<br>
+5. SimpleInterest.cpp calculates the simple interest for given principal,rate and time
+<br>

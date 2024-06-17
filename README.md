@@ -10,3 +10,5 @@ This is my first Repo after learning Github
 <br>
 5. SimpleInterest.cpp calculates the simple interest for given principal,rate and time
 <br>
+6. Typecasting.cpp is the program to find the ASCII Code of Capital Alphabets using Explicit Typecating also find its actual sequence
+<br>

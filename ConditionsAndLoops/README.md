@@ -39,3 +39,8 @@ d) 61-70 Can do better
 e) 51-60 Average
 f) 40-50 Below Average
 g) <40 Fail
+<br>
+11. VowelOrConsonant.cpp Write a program to check whether a given character is a vowel or a consonant.
+<br>
+12. ValidTriangle.cpp Take 3 numbers input and tell if they can be the sides of a triangle.
+<br>

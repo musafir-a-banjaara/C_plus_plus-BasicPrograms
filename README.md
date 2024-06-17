@@ -12,3 +12,7 @@ This is my first Repo after learning Github
 <br>
 6. Typecasting.cpp is the program to find the ASCII Code of Capital Alphabets using Explicit Typecating also find its actual sequence
 <br>
+7. HalfOfInteger.cpp helps to halve an integer number using Typecasting
+<br>
+8. PrintFractionalPart.cpp prints the Fractional part of a float number using Typecasting
+<br>

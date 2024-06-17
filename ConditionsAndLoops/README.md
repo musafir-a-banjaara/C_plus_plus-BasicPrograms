@@ -9,3 +9,15 @@ determine whether the seller has made profit or
 incurred loss. Also determine how much profit he
 made or loss he incurred.
 <br>
+4. ThreeDigitNumber.cpp Take positive integer input and tell if it
+is a three digit number or not.
+<br>
+5. 3and5.cpp Take positive integer input and tell if it
+is divisible by 5 and 3.
+<br>
+6. 3or5.cpp Take positive integer input and tell if it
+is divisible by 5 and 3.
+<br>
+7. GreatestNumber.cpp Take 3 positive integers input and print
+the greatest of them.
+<br>

@@ -44,3 +44,5 @@ g) <40 Fail
 <br>
 12. ValidTriangle.cpp Take 3 numbers input and tell if they can be the sides of a triangle.
 <br>
+13. EvenOrOddTernary.cpp finds even or odd number using Ternary Operator
+<br>
